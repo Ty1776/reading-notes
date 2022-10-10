@@ -27,3 +27,5 @@ mv 		- Move ie. Move a file or directory.
 rm 		- Remove ie. Delete a file.  
 cd .. 	- Move back in directory. (more ... move back farther.)  
 tree 	- Visual file structure.  
+\ 		- Escape (or nullify)
+clear 	- Clear screen
