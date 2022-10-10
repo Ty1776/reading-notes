@@ -15,4 +15,4 @@ The **Growth Mindset** is a willingness to be teachable and learn new skills. Tr
 
 
 Link to my Github portfolio: <https://github.com/Ty1776>  
-Alternate link to my Github Portfolio [Tyler](https://github.com/Ty1776)
+Alternate link to my Github Portfolio using a title format: [Tyler's Github Portfolio](https://github.com/Ty1776)
