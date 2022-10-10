@@ -6,8 +6,8 @@
 
 ### Hello! My name is Tyler and I am excited to be learning coding at *Code Fellows*! Prior to enrolling at Code Fellows, I was an HVAC service technician for the past 9 years, before that I was in the Air Force. 
 
-#### **Growth Mindset** ####  
-The **Growth Mindset** is a willingness to be teachable and learn new skills. Try new things. Experiment with code! If you become stuck, use your resources, such as Google or teammates to figure something out! When you are sucessful at working through a problem, **share** your experience! Be receptive to advice and constructive criticizm, there will **ALWAYS** be people that know *more* than you!
+#### **Growth Mindset:** ####  
+The **Growth Mindset** is a willingness to be teachable and learn new skills. Try new things. Experiment with code! If you become stuck, use your resources, such as Google or teammates to figure something out! When you are sucessful at working through a problem, **share** your experience! Be receptive to advice and constructive criticizm, there will **ALWAYS** be people that know *more* than you!  
 
 1. Use your resources! **IE: Google, Teammates**
 2. *Try new things!*
