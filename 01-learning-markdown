@@ -1,0 +1,7 @@
+# Markdown Reflection  
+## Code 102 Markdown reflection:  
+Markdown is a very simple way of communicating information via a website. Markdown uses a series of symbols as syntax to achieve
+effects such as **BOLD** or *Italics* or a ***combination*** rather than using codes such as HTML, CSS, or Javascript.  
+To use Headings in Markdown, you use the # followed by a space. IE "# Heading 1"  
+
+Here is a quick reference guide to [Github Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
