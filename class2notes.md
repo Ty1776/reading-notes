@@ -13,7 +13,6 @@ Some text editors are for just that, writing and editing text (ie: Word, Notepad
 - Emmet (shorthand language)  
 
 
-
 ## ***Terminal Commands Cheat Sheet***
 ### ***EVERYTHING IS A FILE***
 ### **Termainal is CASE SENSITIVE**
@@ -31,6 +30,6 @@ mv 		- Move ie. Move a file or directory.
 rm 		- Remove ie. Delete a file.  
 cd .. 	- Move back in directory. (more ... move back farther.)  
 tree  	- Visual file structure.  
-\ 		- Escape (or nullify)
-clear 	- Clear screen
-code .  - Open VS Editor
+\ 		- Escape (or nullify)  
+clear 	- Clear screen  
+code .  - Open VS Editor  
