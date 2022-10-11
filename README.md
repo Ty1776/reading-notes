@@ -1,18 +1,36 @@
-# reading-notes
+# Tyler's Page
 
-## My reading notes journal for Code 102d44.
+Hello! My name is Tyler and I am excited to be learning coding at *Code Fellows*! Prior to enrolling at Code Fellows, I was an HVAC service technician for the past 9 years, before that I was in the Air Force.  
 
-![WIN_20221002_13_38_28_Pro (2)](https://user-images.githubusercontent.com/114241812/194931129-64c8c03e-1137-4bfb-8335-879009a6f4bb.jpg) 
+This website contains my reading-notes for code 102 and 201.
 
-### Hello! My name is Tyler and I am excited to be learning coding at *Code Fellows*! Prior to enrolling at Code Fellows, I was an HVAC service technician for the past 9 years, before that I was in the Air Force. 
+## Table of contents  
 
-#### **Growth Mindset:** ####  
-The **Growth Mindset** is a willingness to be teachable and learn new skills. Try new things. Experiment with code! If you become stuck, use your resources, such as Google or teammates to figure something out! When you are sucessful at working through a problem, **share** your experience! Be receptive to advice and constructive criticizm, there will **ALWAYS** be people that know *more* than you!  
+### 102 Reading Notes  
 
-1. Use your resources! **IE: Google, Teammates**
-2. *Try new things!*
-3. **Don't be aftaid to ask for help!**
+- [Class 1 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/102/class1notes.md)  
+- [Class 2 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/102/class2notes.md)  
+- [Class 3 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/102/class3notes.md)  
+- [Class 4 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/102/class4notes.md)  
+- [Class 5 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/102/class5notes.md)  
+- [Class 6 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/102/class6notes.md)  
+- [Class 7 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/102/class7notes.md)  
+- [Class 8 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/102/class8notes.md)  
 
+### 201 Reading Notes  
 
-Link to my Github portfolio: <https://github.com/Ty1776>  
-Alternate link to my Github Portfolio using a title format: [Tyler's Github Portfolio](https://github.com/Ty1776)
+- [Class 1 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class1notes.md)  
+- [Class 2 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class2notes.md)  
+- [Class 3 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class3notes.md)  
+- [Class 4 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class4notes.md)  
+- [Class 5 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class5notes.md)  
+- [Class 6 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class6notes.md)  
+- [Class 7 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class7notes.md)  
+- [Class 8 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class8notes.md)  
+- [Class 9 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class9notes.md)  
+- [Class 10 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class10notes.md)  
+- [Class 11 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class11notes.md)  
+- [Class 12 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class12notes.md)  
+- [Class 13 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class13notes.md)  
+- [Class 14 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class14notes.mdd)  
+- [Class 15 Reading Notes](/home/tyler/CodeFellows/projects/courses/102/reading-notes/201/class15notes.md)  
