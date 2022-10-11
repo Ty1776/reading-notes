@@ -8,7 +8,7 @@ This website contains my reading-notes for code 102 and 201.
 
 ### 102 Reading Notes  
 
-- [Class 1 Reading Notes](102/class1notes)  
+- [Class 1 Reading Notes](102/class1notes.md)  
 - [Class 2 Reading Notes](102/class2notes.md)  
 - [Class 3 Reading Notes](102/class3notes.md)  
 - [Class 4 Reading Notes](102/class4notes.md)  

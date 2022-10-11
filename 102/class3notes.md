@@ -79,4 +79,12 @@ Every change applied to any file or directory is tracked by Git.
 - This copies all versions of all files for a project. This command creates a directory called "test" with an initialized .git directory inside of it, which contains all versions of all files for the specified project.  
 - To clone repository into a directory with another name of your choosing, use:  
 - ~git clone 'https://github.com/test' mydirectory  
-- Now the target repository is in a directory named "mydirectory"
+- Now the target repository is in a directory named "mydirectory"  
+
+## Steps to push Git changes  
+
+1. git status
+2. git add .
+3. git commit -m "your message"
+4. git push origin main
+5. git status
