@@ -81,7 +81,7 @@ Every change applied to any file or directory is tracked by Git.
 - ~git clone 'https://github.com/test' mydirectory  
 - Now the target repository is in a directory named "mydirectory"  
 
-## Steps to push Git changes  
+## Steps to push Git changes from terminal  
 
 1. git status
 2. git add .
