@@ -34,3 +34,5 @@ This website contains my reading-notes for code 102 and 201.
 - [Class 13 Reading Notes](201/class13notes.md)  
 - [Class 14 Reading Notes](201/class14notes.mdd)  
 - [Class 15 Reading Notes](201/class15notes.md)  
+
+[My GitHub Portfolio](https://github.com/Ty1776)
