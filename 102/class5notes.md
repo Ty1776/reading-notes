@@ -23,3 +23,9 @@ ie: `<link rel="stylesheet" href="css-doc-name.css">`
 
 ***As stated many times before, USE YOUR RESOURCES!!!***  
 If you're having difficulties, try looking up the issue you are facing on Google.
+
+## Types of CSS
+
+- Internal  
+- External  
+- Inline  
