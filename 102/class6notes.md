@@ -21,6 +21,36 @@
 > Based on user input  
 > Use a conditional statement to determine output  
 
+- How you name a variable (container for storing data)  
+- All JS variable identifiers must have unique names. Name your variable based on the data it will be holding.  
+- Names are case sensitive  
+- console.log("hello");  
+- document.write("hello");  
+- prompt(What is your name?);
+- let usersName = prompt("What is your name?");  
+- console.log("Hello" + usersName + "welcome to my page!");  
+
+## Conditional logic
+
+- If/Else - If - true do this. Else - do that.  
+- if(usersName == "Tyler"){  
+    console.log("Hi Tyler");  
+} else { console.log("Hello there!")  
+}
+
+### Data types  
+
+- Numbers (integers)  
+- Strings (text) (data wrapped in quotation marks 'hello')  
+- Boolean - true/false (on/off)  
+
+## Variables
+
+- let - can be changed
+- const - can't be changed  
+
+- JS = is assigning value  
+
 #### How computers work  
 
 - Input  
