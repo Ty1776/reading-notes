@@ -55,13 +55,13 @@
 - Assignment Operators  
 
 > - Operator -- Example -- Same As  
-> &nbsp; &nbsp; &nbsp; =  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x=y  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x=y  
-> &nbsp; &nbsp; +=  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x=+y  &nbsp; &nbsp; &nbsp; &nbsp; x=x+y  
-> &nbsp; &nbsp; -=  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x-=y  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; x=x-y  
-> &nbsp; &nbsp; `*=`  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `x*=y`  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x=x*y  
-> &nbsp; &nbsp; /=  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x/=y  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x=x/y  
-> &nbsp; &nbsp; %=  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x%=y  &nbsp; &nbsp; &nbsp; &nbsp; x=x%y  
-> &nbsp; &nbsp; `**=` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `x**y`  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `x=x**y`  
+> &nbsp; &nbsp; &nbsp; = &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x=y &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x=y  
+> &nbsp; &nbsp; += &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x=+y &nbsp; &nbsp; &nbsp; &nbsp; x=x+y  
+> &nbsp; &nbsp; -= &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x-=y &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; x=x-y  
+> &nbsp; &nbsp; `*=` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `x*=y` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x=x*y  
+> &nbsp; &nbsp; /= &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x/=y &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x=x/y  
+> &nbsp; &nbsp; %=  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x%=y &nbsp; &nbsp; &nbsp; &nbsp; x=x%y  
+> &nbsp; &nbsp; `**=` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `x**y` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `x=x**y`  
 
 - Adding JS Strings  
 - ie: `let firstname = "Tyler";`  
