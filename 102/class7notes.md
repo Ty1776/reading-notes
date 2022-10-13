@@ -9,18 +9,18 @@
 ## JS Functions  
 
 - A block of code designed to perform a particular task.  
-- Function syntax: function is defined with the *function* keyword, followed by a **name**, followed by parentheses **()**  
+- Function syntax: function is defined with the *function* keyword, followed by a **name**, followed by parentheses **( )**  
 - Parentheses may include parameter names separated by commas: **(para1, para2, etc)**  
-- Code to be **Executed** by the *function* is placed inside of curly brackest **{}**  
+- Code to be **Executed** by the *function* is placed inside of curly brackest **{ }**  
 
-> Function **parameters** are listed inside of the parentheses () in the function definition.  
+> Function **parameters** are listed inside of the parentheses ( ) in the function definition.  
 > Function **arguments** are the **values** recieved by the function when it is invoked.  
 > Inside the function, the arguments (the parameters) behave as local variables.  
 
 - Functions allow you to reuse code. Define the code once, and use it many times. Use the same code many times with different arguments to produce different results.  
-- Functions can be used as **variable** values: formulas, assignments, calculations 
+- Functions can be used as **variable** values: formulas, assignments, calculations  
 - Variables declared within a JS function become ***LOCAL*** to that function.  
-- Local variables can only be accessed from within that function 
+- Local variables can only be accessed from within that function  
 
 ### Function Invocation  
 
@@ -30,12 +30,12 @@
 > - When it is invoked (called) from JS code  
 > - Automatically (self invoked)
 
-- The () operator invokes the function accessing a function without () will return the function object instead of the function result.  
+- The ( ) operator invokes the function accessing a function without ( ) will return the function object instead of the function result.  
 
 ### Function Return  
 
-- When JS reaches a **return** statemen, the function will stop executing  
-- If function was invoked from a statement, JS will "return" to execute the code after the incoking statement  
+- When JS reaches a **return** statement, the function will stop executing  
+- If function was invoked from a statement, JS will "return" to execute the code after the invoking statement  
 - Functions oftem compute a return value, this return value is "returned" back to the "caller" (user)  
 
 ## JS Operators  

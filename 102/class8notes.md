@@ -32,11 +32,11 @@
 - Loops offer a quick and easy way to do something repeatedly.  
 - Loops repeat an action some number of times.  
 
-### JS Statements for loops:  
+### JS Statements for loops  
 
 - for
 
-> loop repeats until a specified condition evaluates to false 
+> loop repeats until a specified condition evaluates to false  
 >>`for ([initialExpression]);`  
   `[conditionExpression];`  
   `[incrementExpression])`
