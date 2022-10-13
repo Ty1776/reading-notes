@@ -84,3 +84,5 @@
 > creates a loop iterating over iterable objects, invoking a custom iteration hook with statements to be executed for the value of eack distinct property
 >>`for (variable of object);`  
   `statement`
+
+I read a bit more than we were supposed to...
