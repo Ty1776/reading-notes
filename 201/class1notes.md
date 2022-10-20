@@ -8,7 +8,7 @@ the HTTP finds the address,
 the server at address approves a users request,  
 and your browser assembles the page.  
 
-2. The browser will parse the HTML file first and send a request back to the server for any CSS `<link>` or JavaScript `<script>` elements. The browser will then parse the CSS and JavaScript. The browser will generate an im-memory DOM tree and compile and apply these files into a visual representation on the users screen.  
+2. The browser will parse the HTML file first and send a request back to the server for any CSS `<link>` or JavaScript `<script>` elements. The browser will then parse the CSS and JavaScript. The browser will generate an in-memory DOM tree and compile and apply these files into a visual representation on the users screen.  
 
 3. To find images to add to a website, ensure the copywrite is either your own, OR find a free image source, such as unsplash. Save the image, add an `<img>` element to your HTML with the correct file path. Give credit to image source beneath the image.  
 
