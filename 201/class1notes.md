@@ -24,7 +24,7 @@ and your browser assembles the page.
 
 3. An Article is for enclosing a block of related content that makes sense on its own, without the rest of the page. A Section is similar to Article, but is more for grouping together a single part of the page that constitutes one single piece of functionality or theme. You can break an Article up into different Sections, or break a Section up into different Articles, depending on context.  
 
-4. A typical website includes many Elements, such as: `<html>, <head>, <title>, <header>, <h1>, <body>, <p>, <footer>`, and all of the associated closing tags and content.  
+4. A typical website includes many Elements, such as: `<html>, <head>, <title>, <header>, <h1>, <body>, <p>, <footer>`, and all of the associated closing tags and content of the page.  
 
 5. Metadata can influence search engine optimization by including keywords related to the content of your page, your page can appear higher in relevant searches.  
 
