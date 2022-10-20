@@ -18,11 +18,11 @@ and your browser assembles the page.
 
 ## Introduction to HTML  
 
-1. An HTML attribute is extra information about the elemnet that wont appear in the content of the page. Attributes are also used to identify and specific elements within an HTML document and apply changes via other linked files, such as CSS.  
+1. An HTML attribute is extra information about the element that won't appear in the content of the page. Attributes are also used to identify and specific elements within an HTML document and apply changes via other linked files, such as CSS.  
 
 2. The anatomy of an HTML element: opening tag, content, closing tag. ie: `<p>Hello there!</p>`
 
-3. An Article is for enclosing a block of related content that makes sense on its own, without the rest of the page. A Section is similar to Article, but is more for grouping together a single part of the page that constitues one single piece of functionality or theme. You can break an Article up into different Sections, or break a Section up into different Articles, depending on context.  
+3. An Article is for enclosing a block of related content that makes sense on its own, without the rest of the page. A Section is similar to Article, but is more for grouping together a single part of the page that constitutes one single piece of functionality or theme. You can break an Article up into different Sections, or break a Section up into different Articles, depending on context.  
 
 4. A typical website includes many Elements, such as: `<html>, <head>, <title>, <header>, <h1>, <body>, <p>, <footer>`, and all of the associated closing tags and content.  
 
@@ -40,15 +40,15 @@ and your browser assembles the page.
 
 ### Semantics  
 
-1. You would use an `<h1>` because, 1 - it **IS** a top level heading, 2 - most browsers will style an `<h1>` as a top level heading by default, 3 - it applies semantic value to the content.  While you can make `<span>` *look* like a top level heading, it is not a semantic value and will not recieve any extra benefits.
+1. You would use an `<h1>` because, 1 - it **IS** a top-level heading, 2 - most browsers will style an `<h1>` as a top-level heading by default, 3 - it applies semantic value to the content.  While you can make `<span>` *look* like a top-level heading, it is not a semantic value and will not receive any extra benefits.
 
-2. In HTML, semantic tags tell what purpose or roll an HTML element has. In addition, search engines will consider page contents and keywords based on semantic elements, screen readers can use it to help cisually impaired navigate a page, finding blocks of meaningful code is easier.  
+2. In HTML, semantic tags tell what purpose or roll an HTML element has. In addition, search engines will consider page contents and keywords based on semantic elements, screen readers can use it to help visually impaired navigate a page, finding blocks of meaningful code is easier.  
 
 ### What is JavaScript  
 
-1. Two things that require JavaScript in the browser are interactive questions/buttons, and run code in responses to specified events occuring on the page.  
+1. Two things that require JavaScript in the browser are interactive questions/buttons, and run code in responses to specified events occurring on the page.  
 
-2. You can add JavaScript to an HTML document either internally (not best practice), or by linking to aan external `<script>` file (best practice).  
+2. You can add JavaScript to an HTML document either internally (not best practice), or by linking to an external `<script>` file (best practice).  
 
 ## Things I want to know more about
 
