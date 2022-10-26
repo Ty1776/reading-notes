@@ -13,9 +13,9 @@ HTML Hyperlinks, JS Functions, and CSS Layout are important to know to ensure pr
 ### CSS Layout  
 
 1. Normal flow is the way the webpage elements lay themselves out if you haven't changed their layout.  
-2. Inline elements sit inline with eachother (inside of a block).  Block-level elements seperate different blocks from eachother.  
+2. Inline elements sit inline with each other (inside of a block).  Block-level elements separate different blocks from eachother.  
 3. Static  
-4. An absolute positioned element in not in the normal document flow and is on a sseperate layer from everything else. This can be useful as we can create isolated UI features on the page that wont interfere with the layout of other elements on the page. ie: information boxes, menus, rollover panels, and other features.  
+4. An absolute positioned element in not in the normal document flow and is on a separate layer from everything else. This can be useful as we can create isolated UI features on the page that won't interfere with the layout of other elements on the page. ie: information boxes, menus, rollover panels, and other features.  
 5. Absolute positioning will take the element out of the normal document flow, whereas fixed positioning will fix the element in place relative to its nearest positioned ancestor. Fixed positioning usually fixes an element in place relative to the visible portion of the viewport.  
 
 ### JS Functions  
@@ -25,7 +25,7 @@ HTML Hyperlinks, JS Functions, and CSS Layout are important to know to ensure pr
 
 ### Miscellaneous
 
-1. 2 benefits for pair programming are Learning from fellow students and Engaged collaboration. I know that I have a lot to learn. We are all at different skill levels and confidence levels and can learn a lot from eachother. Somebody else (paired programming partner) will probably have a different approach to a problem than I do. This is a great learning opportunity to see things from another perspective as well as to learn! There is typically more than one approach to writing code and solving a problem!  
+1. 2 benefits for pair programming are Learning from fellow students and Engaged collaboration. I know that I have a lot to learn. We are all at different skill levels and confidence levels and can learn a lot from each other. Somebody else (paired programming partner) will probably have a different approach to a problem than I do. This is a great learning opportunity to see things from another perspective as well as to learn! There is typically more than one approach to writing code and solving a problem!  
 
 ## Things I want to know more about  
 
