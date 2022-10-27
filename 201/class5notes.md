@@ -2,7 +2,7 @@
 
 ## Why these topics matter as it relates to this this module  
 
-Using images and changing colors and text styles can make a webpace feel more friendly and easier to read.
+Using images and changing colors and text styles can make a webpage feel more friendly and easier to read.
 
 ### HTML Media
 
