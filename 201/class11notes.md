@@ -28,4 +28,4 @@ Used to display a different image based on detected screen/resolution size.
 ## Things I want to know more about  
 
 Using srcset (real life example)  
-Embeding video files and creating your own control  
+Embeding video files and creating your own controls  
