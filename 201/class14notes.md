@@ -2,7 +2,7 @@
 
 ## Why these topics matter as it relates to this this module  
 
-- 
+- Animations, transforms, and transitions make our end product more appealing and interactive. They can also make our end product more user friendly and easier to navigate.
 
 ## CSS Transforms  
 
