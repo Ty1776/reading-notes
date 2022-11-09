@@ -16,10 +16,10 @@
 
 ## 8 Simple CSS3 Transitions that will wow your users  
 
-1. Some benefits of using CSS transtitions on websites: make it more appealing, eye catching, and memorable. It can also make the webpage easier to navigate (using transitions on hover).
-2. I really enjoy CSS. If I pursue web development over game design, CSS will be exceedingly important to syle a page that draws a user in. If I pursue game design, then I can take what I have learned of CSS and apply it to the code necessary for game animation.  
+1. Some benefits of using CSS transitions on websites: make it more appealing, eye catching, and memorable. It can also make the webpage easier to navigate (using transitions on hover).
+2. I really enjoy CSS. If I pursue web development over game design, CSS will be exceedingly important to style a page that draws a user in. If I pursue game design, then I can take what I have learned of CSS and apply it to the code necessary for game animation.  
 
-## Things I want to konw more about  
+## Things I want to know more about  
 
 - How are game environments normally animated?  
 - How are apps normally animated?  
