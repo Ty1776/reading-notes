@@ -32,7 +32,8 @@ This website contains my reading-notes for code 102 and 201.
 - [Class 11 Reading Notes](201/class11notes.md)  
 - [Class 12 Reading Notes](201/class12notes.md)  
 - [Class 13 Reading Notes](201/class13notes.md)  
-- [Class 14 Reading Notes](201/class14notes.md)  
+- [Class 14 Reading Notes](201/class14notes.md)
+- [Class 14 Psychological Safety](201/class14PsychologicalSafety.md)  
 - [Class 15 Reading Notes](201/class15notes.md)  
 
 [My GitHub Portfolio](https://github.com/Ty1776)
