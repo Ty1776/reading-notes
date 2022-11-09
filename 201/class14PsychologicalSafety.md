@@ -4,3 +4,7 @@
 As I was preparing to leave my previous job to attend Code Fellows, I was still in the process of training an apprentice. For the last week or so, Dispatch was reluctant to have the apprentice ride with me, until I relayed to him that I had a desire to pass on as much of my knowledge as I was able before I left.  
 "Psychological Safety" is extremely important to a business, as it can mean the difference between success and failure. You want your employees to be happy, and to feel fulfilled. A happy employee is typically a productive employee. When an employee is disgruntled or unhappy, productivity typically falls.  
 As Jim Bennett said a couple of weeks ago in Partner Power Hour, find a place where you are happy. Find a good manager to work for, or if you are a manager, BE that manager that people WANT to work for.  
+
+## Things I want to know more about  
+
+- Ways to recover from working in a psychologically unhealthy environment  
