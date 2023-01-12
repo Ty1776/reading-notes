@@ -12,7 +12,7 @@
 
 1. A Ternary operator would be used in place of an if statement/if else conditional
 
-2. x===y ? console.log(true) : console.log(false)
+2. `x===y ? console.log(true) : console.log(false)`
 
 ## Things I want to know more about  
 
